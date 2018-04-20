@@ -1,0 +1,87 @@
+/*
+* @Author: Administrator
+* @Date:   2018-03-09 14:58:34
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-03-17 09:49:29
+*/
+.box{
+	width: 356px;
+	height: 737px;
+    background: -webkit-linear-gradient(top, #000000,#0f0e13);
+	background: -moz-linear-gradient(top, #000000,#0f0e13);
+	background: -ms-linear-gradient(top, #000000,#0f0e13);
+	background: -o-linear-gradient(top, #000000,#0f0e13);
+	background: linear-gradient(top, #000000,#0f0e13);
+    margin: 0 auto;
+    border-radius: 28px;
+   border: 1px solid #39383e;
+    box-shadow: 0 0 5px 2px #fff inset;
+    position: relative;
+}
+.head{
+	width:158px;
+	height:11px;
+	margin: 0 auto;
+	margin-top: 12px;
+}
+.window{
+	width:334px;
+	height: 657px;
+	border: 2px solid #000;
+	margin: 0 auto;
+	margin-top: 17px;
+}
+.circle{
+	width: 5px;
+	height: 5px;
+	background: #56534a;
+	border: 2.5px solid #27262e;
+	background: linear-gradient(0,#56534a,#27262e);
+	border-radius: 50%;
+	float: left;
+}
+.circle1{
+	width: 10px;
+	height: 10px;
+	background: #56534a;
+	border-radius: 50%;
+	float: left;
+	margin-left: 14px;
+}
+.circle2{
+	width: 5px;
+	height: 5px;
+	border-top: 5px solid #158e85;
+	border-right: 5px solid #0c2126;
+	background: #2b3a41;
+	background: linear-gradient(0,#2b3a41,#158e85,#0c2126);
+	border-radius: 50%;
+	float: right;
+}
+.heng{
+	width: 49px;
+	height: 10px;
+	background: #15141a;
+	border-radius: 3px;
+	float: left;
+	margin-left: 30px;
+}
+.button{
+	width: 3px;
+	height: 174px;
+	position: absolute;
+	top: 134px;
+	right: -3px;
+
+}
+.button1{
+    width: 3px;
+	height: 100px;
+	background: #3e3d42;
+	margin-bottom: 30px;
+}
+.button2{
+    width: 3px;
+	height: 44px;
+	background: #39383e;
+}
